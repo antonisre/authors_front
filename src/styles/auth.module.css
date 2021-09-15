@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15vh;
+}
+
+.form {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.input {
+    margin: 10px 0;
+}
+
+.signupNote {
+    color: blue;
+}
+
+.signupNote:hover {
+    cursor: pointer;
+}
